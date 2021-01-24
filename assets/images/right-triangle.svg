@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 853.6 959.02">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        clip-rule: evenodd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1f2734;
+      }
+
+      .cls-3, .cls-5 {
+        opacity: 0.9;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #7ae9c5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M330.61,39.08l86.72-26.51a58.35,58.35,0,0,1,72.88,38.75L516.72,138A58.35,58.35,0,0,1,478,210.92l-86.72,26.51a58.35,58.35,0,0,1-72.88-38.75L291.86,112A58.35,58.35,0,0,1,330.61,39.08Z"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path class="cls-1" d="M206.78,657.31,271.1,265.13a118,118,0,0,1,185.8-76.37L744.17,397.48A118,118,0,0,1,729.4,597.55L377.81,781a118,118,0,0,1-171-123.71Z"/>
+    </clipPath>
+  </defs>
+  <title>Asset 4</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g class="cls-2">
+        <rect class="cls-3" x="279.29" width="250" height="250"/>
+      </g>
+      <g class="cls-4">
+        <rect class="cls-5" x="121.25" y="226.66" width="611.11" height="611.11" transform="translate(-254.64 564.68) rotate(-54)"/>
+      </g>
+    </g>
+  </g>
+</svg>

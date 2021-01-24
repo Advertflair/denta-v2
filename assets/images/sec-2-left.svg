@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 218.48 218.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        clip-rule: evenodd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #072a44;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M136.41,39.43,196,128.87a40,40,0,0,1-28.41,61.89L72.3,202.46a40,40,0,0,1-42.59-53L65.41,48.3a40,40,0,0,1,71-8.87Z"/>
+    </clipPath>
+  </defs>
+  <title>Asset 7</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g class="cls-2">
+        <rect class="cls-3" x="11.22" y="11.22" width="196.05" height="196.05" transform="translate(-12.5 14.13) rotate(-7)"/>
+      </g>
+    </g>
+  </g>
+</svg>
