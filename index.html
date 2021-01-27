@@ -97,6 +97,7 @@
                   media="(max-width:991px)"
                   srcset="./assets/images/hey-denta-mob.gif"
                 />
+                <div id="logo-bm"></div>
 
                 <img src="./assets/images/hey-denta.gif" alt="Flowers" />
               </picture>
@@ -399,6 +400,20 @@
           .get(0)
           .pause();
       });
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.3/lottie.js"></script>
+
+         var logoSvgData = 
+  // Paste Your JSON Bodymovin Code Here
+;
+
+const animation = bodymovin.loadAnimation({
+  container: document.getElementById('logo-bm'),
+  renderer: 'svg',
+  loop: true,
+  autoplay: true,
+  animationData: logoSvgData
+})
+ 
     </script>
   </body>
 </html>
